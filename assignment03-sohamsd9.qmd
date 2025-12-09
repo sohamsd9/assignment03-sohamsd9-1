@@ -1,0 +1,23 @@
+---
+title: Assignment 03
+author:
+  - name: Soham Deshkhaire
+    affiliations:
+      - id: bu
+        name: Boston University
+        city: Boston
+        state: MA
+number-sections: true
+date: '20-10-2025'
+format:
+  html:
+    theme: cerulean
+    toc: true
+    toc-depth: 2
+date-modified: today
+date-format: long
+execute:
+  echo: false
+  eval: false
+  freeze: auto
+---
